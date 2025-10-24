@@ -1,5 +1,7 @@
 # Tarea 6: Generación de un conflicto en git y fichero .gitignore
 
+## Por parejas.
+
 1. Realicemos un fork del repositorio
 
 	![Imagen](/Imagenes/1.png)
@@ -68,3 +70,7 @@
 
 	![Imagen](/Imagenes/Aceptamos_El_PullMiguel.png)
 	![Imagen](/Imagenes/Aceptamos_El_PullMiguel2.png)
+
+## Individual
+
+
