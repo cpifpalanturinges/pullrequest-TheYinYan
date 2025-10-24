@@ -2,41 +2,41 @@
 
 1. Realicemos un fork del repositorio
 
-![Imagen](/Imagenes/1.png)
+	![Imagen](/Imagenes/1.png)
 
 
 2. Clona el repositorio
 
-![Imagen](/Imagenes/2.png)
+	![Imagen](/Imagenes/2.png)
 
-Abre la terminal y ejecuta el siguiente comando. Esto clonará el repositorio localmente.
+	Abre la terminal y ejecuta el siguiente comando. Esto clonará el repositorio localmente.
 
-	git clone [DIRECCIÓN HTTPS]
+		git clone [DIRECCIÓN HTTPS]
 
-Debemos ir al repositorio clonado ejecutando el siguiente comando:
+	Debemos ir al repositorio clonado ejecutando el siguiente comando:
 
-	cd [NOMBRE DEL REPOSITORIO]
+		cd [NOMBRE DEL REPOSITORIO]
 
 
 3. Crea una rama
 
-Ahora crea una rama usando el comando *git checkout*
+	Ahora crea una rama usando el comando *git checkout*
 	
-	git checkout -b [Nombre de la Rama]
+		git checkout -b [Nombre de la Rama]
 
-	![Imagen](/Imagenes/4.png)
+		![Imagen](/Imagenes/4.png)
 
 
 4. Realiza cambios y confírmalos
 
-Has cambios esenciales al proyecto y guárdalos. <br>
-Luego ejecuta *git status* , y verás los cambios.
+	Has cambios esenciales al proyecto y guárdalos. <br>
+	Luego ejecuta *git status* , y verás los cambios.
 
-	![Imagen](/Imagenes/5.png)
+		![Imagen](/Imagenes/5.png)
 
-Agrega esos cambios a la rama recién creada usando el comando git add:
+	Agrega esos cambios a la rama recién creada usando el comando git add:
 
-	git add .
+		git add .
 
 Ahora confirma esos cambios utilizando el comando git commit:
 
