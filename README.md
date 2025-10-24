@@ -38,30 +38,30 @@
 
 		git add .
 
-Ahora confirma esos cambios utilizando el comando git commit:
+	Ahora confirma esos cambios utilizando el comando git commit:
 
-	git commit -m "Adding an article to week 02 of articles of the week"	
+		git commit -m "Adding an article to week 02 of articles of the week"	
 	
-	![Imagen](/Imagenes/6.png)
+		![Imagen](/Imagenes/6.png)
 
 
 5. Envía los cambios a GitHub
 
 
-Para enviar los cambios a GitHub, debemos identificar el nombre del repositorio remoto.
+	Para enviar los cambios a GitHub, debemos identificar el nombre del repositorio remoto.
 
-	git remote
+		git remote
 
-Luego de identificar el nombre podemos enviar en forma segura los cambios a GitHub.
+	Luego de identificar el nombre podemos enviar en forma segura los cambios a GitHub.
 
-	git push origin [Nombre de la Rama]
+		git push origin [Nombre de la Rama]
 
 
 6. Crea un pull request
 
-Ve a tu repositorio en GitHub y verás un botón llamado "Pull request", has clic en él.
+	Ve a tu repositorio en GitHub y verás un botón llamado "Pull request", has clic en él.
 
-	![Imagen](/Imagenes/7.png)
+		![Imagen](/Imagenes/7.png)
 
 
 7. Aceptar un push
