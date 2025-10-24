@@ -67,4 +67,4 @@
 7. Aceptar un push
 
 	![Imagen](/Imagenes/Aceptamos_El_PullMiguel.png)
-	![Imagen](/Imagenes/Aceptamos_El_PullMiguel1.png)
+	![Imagen](/Imagenes/Aceptamos_El_PullMiguel2.png)
