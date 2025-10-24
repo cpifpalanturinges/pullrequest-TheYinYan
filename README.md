@@ -24,7 +24,7 @@
 	
 		git checkout -b [Nombre de la Rama]
 
-		![Imagen](/Imagenes/4.png)
+	![Imagen](/Imagenes/4.png)
 
 
 4. Realiza cambios y confírmalos
@@ -32,7 +32,7 @@
 	Has cambios esenciales al proyecto y guárdalos. <br>
 	Luego ejecuta *git status* , y verás los cambios.
 
-		![Imagen](/Imagenes/5.png)
+	![Imagen](/Imagenes/5.png)
 
 	Agrega esos cambios a la rama recién creada usando el comando git add:
 
@@ -42,7 +42,7 @@
 
 		git commit -m "Adding an article to week 02 of articles of the week"	
 	
-		![Imagen](/Imagenes/6.png)
+	![Imagen](/Imagenes/6.png)
 
 
 5. Envía los cambios a GitHub
@@ -61,7 +61,7 @@
 
 	Ve a tu repositorio en GitHub y verás un botón llamado "Pull request", has clic en él.
 
-		![Imagen](/Imagenes/7.png)
+	![Imagen](/Imagenes/7.png)
 
 
 7. Aceptar un push
